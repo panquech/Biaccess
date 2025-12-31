@@ -1,6 +1,6 @@
 <?php
 /* Database connection settings */
-	$servername = "127.0.0.1";
+	$servername = "localhost";
     $username = "root";		//put your phpmyadmin username.(default is "root")
     $password = "";			//if your phpmyadmin has a password put it here.(default is "root")
     $dbname = "biometricattendance";

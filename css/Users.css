@@ -2,10 +2,11 @@
 
 h1{
   font-size: 50px;
-  color: #ffffff;
+  padding: 2%;
+  color: #000000;
   text-transform: uppercase;
-  font-weight: 300;
-  font-family: Luminari, fantasy;
+  font-weight:400;
+  font-family: 'Roboto', sans-serif;
   text-align: center;
   margin: 0;
   margin-bottom: 15px;
@@ -18,7 +19,7 @@ table{
   table-layout: fixed;
 }
 .tbl-header{
-  background-color: rgba(120, 32, 32, 0.429);
+  background: linear-gradient(rgba(224, 224, 224, 0.429),rgba(134, 134, 134, 0.429));
   margin: 20px 20px;
  }
 .tbl-content{
@@ -32,7 +33,7 @@ th{
   text-align: center;
   font-weight: 500;
   font-size: 17px;
-  color: #ffffff;
+  color: #000000;
   text-transform: uppercase;
 }
 td{
@@ -41,7 +42,7 @@ td{
   vertical-align:middle;
   font-weight: 300;
   font-size: 14px;
-  color: #fff;
+  color: #000000;
   border-bottom: solid 2px rgba(255,255,255,0.1);
 }
 

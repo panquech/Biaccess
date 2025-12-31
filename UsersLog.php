@@ -57,7 +57,7 @@
           <tr>
             <!-- <th>ID</th> -->
             <th>Nombre</th>
-            <th>Boleta</th>
+            <th>No.Empleado</th>
             <!-- <th>Fingerprint ID</th> -->
             <th>Fecha</th>
             <th>Hora de Entrada</th>

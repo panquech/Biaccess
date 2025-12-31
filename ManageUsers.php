@@ -50,7 +50,7 @@
 			<fieldset>
 				<legend><span class="number">2</span> Información del Usuario</legend>
 				<input type="text" name="name" id="name" placeholder="Nombre">
-				<input type="text" name="number" id="number" placeholder="Número de Boleta">
+				<input type="text" name="number" id="number" placeholder="Número de Empleado">
 				<input type="email" name="email" id="email" placeholder="Correo electrónico">
 				<label> Género:</label>
 				<label>
@@ -82,7 +82,7 @@
 	        	  <th>ID de la huella</th>
 		          <th>Nombre</th>
 		          <th>Género</th>
-		          <th>Boleta</th>
+		          <th>No.Empleado</th>
 		          <th>Fecha de registro</th>
 		          <th>Hora de registro</th>
 		        </tr>

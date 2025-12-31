@@ -13,13 +13,15 @@ session_start();
 <header>
 <div class="header">
 	<div class="logo">
-		<a href="https://www.ipn.mx" target="_blank"><img src="icons/IPN.png" height="60" alt="IPN LOGO"></a>
+		<a href="https://www.ipn.mx" target="_blank"><img src="icons/bank.png" height="60" alt="BANK LOGO"></a>
 	</div>
 	<a class="title" href="index.php">Sistema de Control de Asistencia</a>
-	<?php
+	<div id="fecha">
+		<?php
 	date_default_timezone_set('America/Mexico_City');
 	echo date("Y-m-d")
 	?>
+	</div>
 </div>
 
 <div class="topnav" id="myTopnav">

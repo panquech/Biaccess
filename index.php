@@ -21,7 +21,7 @@
       <thead>
         <tr>
           <th>Nombre</th>
-          <th>Boleta</th>
+          <th>No.Empleado</th>
           <th>Genero</th>
           <!-- <th>Finger ID</th> -->
           <th>Fecha de Registro</th>
